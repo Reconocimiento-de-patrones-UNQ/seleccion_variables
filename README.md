@@ -16,7 +16,7 @@ Este repositorio contiene el material de la **Clase 2** de la materia **Reconoci
 
 ### 📂 Estructura del Repositorio
 
-  * [**`Clase2_Seleccion_de_Variables.ipynb`**](https://drive.google.com/file/d/1nBim8KbIPLNGH2pYK93Ck8O9zfKM1wb0/view?usp=sharing): Notebook práctico que simula un experimento de microarrays (60 pacientes, 4000 genes) para aplicar los métodos discutidos.
+  * [**`Clase2_Seleccion_de_Variables.ipynb`**](https://colab.research.google.com/drive/1nBim8KbIPLNGH2pYK93Ck8O9zfKM1wb0): Notebook práctico que simula un experimento de microarrays (60 pacientes, 4000 genes) para aplicar los métodos discutidos.
   * **`bibliografia_clase2.md`**: Compendio de lecturas fundamentales, incluyendo el review de Saeys et al. (2007) y capítulos clave de *The Elements of Statistical Learning*.
 
 -----
@@ -29,7 +29,7 @@ Para asegurar un ambiente de trabajo estable y con todas las dependencias bioinf
 
 ### Abrir el notebook utilizando el enlace citado a continuación para aprovechar el entorno de Google Colab preconfigurado con todas las dependencias necesarias:
 
-[**`Clase2_Seleccion_de_Variables.ipynb`**](https://drive.google.com/file/d/1nBim8KbIPLNGH2pYK93Ck8O9zfKM1wb0/view?usp=sharing)
+[**`Clase2_Seleccion_de_Variables.ipynb`**](https://colab.research.google.com/drive/1nBim8KbIPLNGH2pYK93Ck8O9zfKM1wb0)
 
 #### Opción B: Ejecución Local
 
