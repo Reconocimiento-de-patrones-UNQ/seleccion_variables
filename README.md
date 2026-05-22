@@ -14,7 +14,7 @@ Este repositorio contiene el material de la **Clase 2** de la materia **Reconoci
 
 -----
 
-### 📂 Estructura del Repositorio
+### Estructura del Repositorio
 
   * [**`Clase2_Seleccion_de_Variables.ipynb`**](https://colab.research.google.com/drive/1nBim8KbIPLNGH2pYK93Ck8O9zfKM1wb0): Notebook práctico que simula un experimento de microarrays (60 pacientes, 4000 genes) para aplicar los métodos discutidos.
   * **`bibliografia_clase2.md`**: Compendio de lecturas fundamentales, incluyendo el review de Saeys et al. (2007) y capítulos clave de *The Elements of Statistical Learning*.
